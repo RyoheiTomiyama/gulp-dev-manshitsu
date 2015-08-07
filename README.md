@@ -2,7 +2,7 @@
 ```
 $ npm install bower gulp -g
 
-$ npm install --dev
+$ npm install
 
 public$ bower install
 ```
